@@ -8,7 +8,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from fitness_agent import FitnessAgent
 from dotenv import load_dotenv
 import os
-BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
+BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN') or os.getenv('TELEGRAM_BOT_TOKEN')
 print(f"BOT_TOKEN loaded: {BOT_TOKEN[:10] if BOT_TOKEN else 'NONE'}")
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 TIMEZONE = "Asia/Bangkok"
