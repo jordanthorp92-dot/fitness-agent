@@ -1,0 +1,91 @@
+{
+  "reminders": [
+    {
+      "day": "Monday",
+      "time": "10:30",
+      "type": "workout",
+      "name": "Lower Body"
+    },
+    {
+      "day": "Wednesday",
+      "time": "05:30",
+      "type": "run",
+      "name": "Sprints"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:30",
+      "type": "workout",
+      "name": "Upper Body"
+    },
+    {
+      "day": "Friday",
+      "time": "05:30",
+      "type": "run",
+      "name": "5K Run"
+    },
+    {
+      "day": "Friday",
+      "time": "10:30",
+      "type": "workout",
+      "name": "Lower Body"
+    },
+    {
+      "day": "Sunday",
+      "time": "05:30",
+      "type": "run",
+      "name": "10K Run"
+    },
+    {
+      "day": "Sunday",
+      "time": "10:30",
+      "type": "workout",
+      "name": "Upper Body"
+    },
+    {
+      "day": "Monday",
+      "time": "20:30",
+      "type": "injection"
+    },
+    {
+      "day": "Wednesday",
+      "time": "20:30",
+      "type": "injection"
+    },
+    {
+      "day": "Friday",
+      "time": "20:30",
+      "type": "injection"
+    },
+    {
+      "day": "Sunday",
+      "time": "20:30",
+      "type": "injection"
+    },
+    {
+      "day": "Monday",
+      "time": "20:30",
+      "type": "summary"
+    },
+    {
+      "day": "Tuesday",
+      "time": "20:30",
+      "type": "summary"
+    },
+    {
+      "day": "Wednesday",
+      "time": "20:30",
+      "type": "summary"
+    },
+    {
+      "day": "Thursday",
+      "time": "20:30",
+      "type": "summary"
+    },
+    {
+      "day": "Friday",
+      "time": "20:30",
+      "type": "summary"
+    }
+  ]
+}
