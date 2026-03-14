@@ -354,7 +354,7 @@ Time to warm up and get going! 💪"""
                                 
                                 response = self.process_message(chat_id, text)
                                 if response:
-                self.send_message(chat_id, response)
+                                            self.send_message(chat_id, response)
                                 
                                 print("→ Response sent\n")
                     
