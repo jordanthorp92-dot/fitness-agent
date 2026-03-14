@@ -353,7 +353,9 @@ Time to warm up and get going! 💪"""
                                 print(f"[{datetime.now(self.tz).strftime('%H:%M:%S')}] {user}: {text}")
                                 
                                 response = self.process_message(chat_id, text)
-                                self.send_message(chat_id, response)
+                                if response:
+                self.send_message(chat_id, response)
+                                
                                 print("→ Response sent\n")
                     
                     time_module.sleep(0.5)
