@@ -1,0 +1,10 @@
+{
+  "user_id": 123456789,
+  "username": "jordan",
+  "timezone": "Asia/Bangkok",
+  "units": "metric",
+  "notifications_enabled": true,
+  "daily_reminder_time": "08:00",
+  "weekly_summary_day": "Sunday",
+  "weekly_summary_time": "19:00"
+}

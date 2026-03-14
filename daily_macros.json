@@ -1,0 +1,16 @@
+{
+  "2026-03-14": {
+    "calories": 2300,
+    "protein": 145,
+    "carbs": 280,
+    "fats": 75,
+    "foods_logged": ["Chicken Breast", "Brown Rice", "Broccoli"]
+  },
+  "2026-03-13": {
+    "calories": 2450,
+    "protein": 150,
+    "carbs": 300,
+    "fats": 80,
+    "foods_logged": ["Eggs", "Salmon", "Brown Rice"]
+  }
+}

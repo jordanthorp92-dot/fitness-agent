@@ -1,0 +1,26 @@
+{
+  "Monday": {
+    "time": "08:00",
+    "type": "Peptide",
+    "dose": "250mcg",
+    "compound": "BPC-157"
+  },
+  "Wednesday": {
+    "time": "08:00",
+    "type": "Peptide",
+    "dose": "250mcg",
+    "compound": "BPC-157"
+  },
+  "Friday": {
+    "time": "08:00",
+    "type": "Peptide",
+    "dose": "250mcg",
+    "compound": "BPC-157"
+  },
+  "Sunday": {
+    "time": "08:00",
+    "type": "Peptide",
+    "dose": "250mcg",
+    "compound": "BPC-157"
+  }
+}

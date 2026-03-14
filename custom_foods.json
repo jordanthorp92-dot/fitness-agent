@@ -1,0 +1,44 @@
+{
+  "foods": [
+    {
+      "name": "Chicken Breast",
+      "calories": 165,
+      "protein": 31,
+      "carbs": 0,
+      "fats": 3.6,
+      "serving": "100g"
+    },
+    {
+      "name": "Brown Rice",
+      "calories": 111,
+      "protein": 2.6,
+      "carbs": 23,
+      "fats": 0.9,
+      "serving": "100g"
+    },
+    {
+      "name": "Broccoli",
+      "calories": 34,
+      "protein": 2.8,
+      "carbs": 7,
+      "fats": 0.4,
+      "serving": "100g"
+    },
+    {
+      "name": "Eggs",
+      "calories": 155,
+      "protein": 13,
+      "carbs": 1.1,
+      "fats": 11,
+      "serving": "1 large"
+    },
+    {
+      "name": "Salmon",
+      "calories": 208,
+      "protein": 20,
+      "carbs": 0,
+      "fats": 13,
+      "serving": "100g"
+    }
+  ]
+}

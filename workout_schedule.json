@@ -1,0 +1,37 @@
+{
+  "Monday": {
+    "type": "Chest",
+    "duration": "60 mins",
+    "exercises": ["Bench Press", "Incline Dumbbell Press", "Cable Flyes"]
+  },
+  "Tuesday": {
+    "type": "Back",
+    "duration": "60 mins",
+    "exercises": ["Deadlifts", "Barbell Rows", "Lat Pulldowns"]
+  },
+  "Wednesday": {
+    "type": "Legs",
+    "duration": "75 mins",
+    "exercises": ["Squats", "Leg Press", "Leg Curls"]
+  },
+  "Thursday": {
+    "type": "Shoulders",
+    "duration": "60 mins",
+    "exercises": ["Overhead Press", "Lateral Raises", "Shrugs"]
+  },
+  "Friday": {
+    "type": "Arms",
+    "duration": "60 mins",
+    "exercises": ["Barbell Curls", "Tricep Dips", "Hammer Curls"]
+  },
+  "Saturday": {
+    "type": "Cardio",
+    "duration": "45 mins",
+    "exercises": ["Running", "Rowing", "Jump Rope"]
+  },
+  "Sunday": {
+    "type": "Rest",
+    "duration": "0 mins",
+    "exercises": []
+  }
+}
