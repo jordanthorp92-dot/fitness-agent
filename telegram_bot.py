@@ -7,7 +7,7 @@ import threading
 from apscheduler.schedulers.background import BackgroundScheduler
 from fitness_agent import FitnessAgent
 
-BOT_TOKEN = "8769131541:AAEc6LCAelmRcYKw8kS30JiJcvPAY-UfmoI"
+BOT_TOKEN = "8769131541:AAEuIlcSoQ_Yzwa9jY4xwixTjomDZ3aojW8"
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 TIMEZONE = "Asia/Bangkok"
 
