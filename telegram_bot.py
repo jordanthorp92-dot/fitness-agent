@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
-
+print(f"BOT_TOKEN loaded: {BOT_TOKEN[:10] if BOT_TOKEN else 'NONE'}")
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 TIMEZONE = "Asia/Bangkok"
 
